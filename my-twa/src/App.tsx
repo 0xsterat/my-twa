@@ -8,7 +8,7 @@ function App() {
   const { value, address, sendIncrement } = useCounterContract();
 
   return (
-    <div className='App'>
+    <div className='Apps'>
       <div className='Container'>
         <TonConnectButton />
 
